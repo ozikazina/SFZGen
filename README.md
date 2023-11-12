@@ -1,0 +1,2 @@
+# SFZGen
+Sforzando file generator
